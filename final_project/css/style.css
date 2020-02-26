@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow:400,700|Lacquer|Roboto&display=swap');
+
+body {
+  background-color: white;
+  color: black;
+  font-family: "Barlow", sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 2px;
+  font-family: "Lacquer", sans-serif;
+  padding: 10px 0;
+}
+
+span {
+  color: red;
+}
+
+h2 {
+  font-size: 18px;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: lowercase;
+  font-weight: normal;
+  padding:
+}
