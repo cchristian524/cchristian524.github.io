@@ -4,6 +4,7 @@ body {
   background-color: white;
   color: black;
   font-family: "Barlow", sans-serif;
+  font-weight: normal;
 }
 
 h1 {
@@ -11,7 +12,7 @@ h1 {
   text-align: center;
   letter-spacing: 2px;
   font-family: "Lacquer", sans-serif;
-  padding: 10px 0;
+  padding: 5px 0;
 }
 
 span {
@@ -24,5 +25,33 @@ h2 {
   text-decoration: underline;
   text-transform: lowercase;
   font-weight: normal;
-  padding:
+  padding: 0px;
+}
+
+.list-header1 {
+  padding: : 0px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.list-header2 {
+  padding: 0px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  font-weight: normal;
+}
+
+#bio {
+  text-align: center;
+}
+
+.list {
+  list-style-type: none;
+  width: 600px;
+  margin: 0 auto;
 }
